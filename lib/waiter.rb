@@ -1,4 +1,4 @@
-reauire 'pry'
+require 'pry'
 
 class Waiter
   attr_accessor :name, :years_experience 
